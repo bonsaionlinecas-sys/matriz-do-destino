@@ -1,0 +1,9 @@
+# matriz-do-destino
+
+Calcule sua matriz do destino com nove posições, contas abertas e 22 temas de reflexão. Confira exemplos e crie uma nota pessoal sem enviar sua data.
+
+## Main page
+- [matriz do destino](https://bonsaionlinecas-sys.github.io/matriz-do-destino/): Calcule sua matriz do destino com nove posições, contas abertas e 22 temas de reflexão. Confira exemplos e crie uma nota pessoal sem enviar sua data.
+
+## Method and scope
+One self-contained page with an interactive tool, visible worked examples, limitations and questions. No accounts or financial transactions. Inputs are processed locally in the browser.
